@@ -13,5 +13,6 @@ AS
 	INSERT INTO Videos (Name, ReleaseDate,GenreId,Classification)
 	VALUES (@Name, @ReleaseDate,@GenreId,@Classification)
 	select 123 
+	select * from Videos
 	select 1
 	select 2
