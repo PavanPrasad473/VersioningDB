@@ -2,3 +2,5 @@
 /VersioningDB/bin
 /VersioningDB/VersioningDB.dbmdl
 /.vs
+/VersioningDB/VersioningDB.sqlproj
+/VersioningDB/VersioningDB.sqlproj.user
