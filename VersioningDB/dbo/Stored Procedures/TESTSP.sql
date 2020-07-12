@@ -1,6 +1,4 @@
-﻿
-CREATE PROCEDURE [dbo].[TESTSP]
+﻿CREATE PROCEDURE TESTSP
 AS BEGIN
 SELECT * FROM Genres
-select * from videos
 END

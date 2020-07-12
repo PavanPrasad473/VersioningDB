@@ -1,6 +1,0 @@
-﻿
-CREATE PROCEDURE [dbo].[GETTTT]
-AS BEGIN
-SELECT * FROM Genres
-select 1 
-END
